@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c044dac2-935f-41e3-8a35-7f393572b7b5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editor-4.3.0.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,36 +33,355 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="cmm513@br-cdbr-azure-south-b.cloudapp.net" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="asset" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="editor-4.3.0.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/editor-4.3.0.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1489690519117" expanded="true" signature="28801:28811" ph="{...}" />
+                <marker date="1489690519117" expanded="true" signature="99506:99518" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="104212:104322" ph="SELECT name,... sqlite_master" />
+                <marker date="1489690519117" expanded="true" signature="104437:104524" ph="SELECT name sqlite_master" />
+                <marker date="1489690519117" expanded="true" signature="104636:104657" ph="SELECT COUNT... ${idf_escape($L[&quot;Name&quot;])}" />
+                <marker date="1489690519117" expanded="true" signature="104720:104749" ph="SELECT * FRO... sqlite_sequence" />
+                <marker date="1489690519117" expanded="true" signature="105717:105779" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="106113:106175" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="106719:106791" ph="SELECT name,... " />
+                <marker date="1489690519117" expanded="true" signature="107771:107814" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="108464:108488" ph="CREATE TABLE... adminer" />
+                <marker date="1489690519117" expanded="true" signature="108502:108520" ph="DROP TABLE a... " />
+                <marker date="1489690519117" expanded="true" signature="109216:109242" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="109282:109318" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="109415:109465" ph="UPDATE sqlit... " />
+                <marker date="1489690519117" expanded="true" signature="110385:110459" ph="CREATE TABLE... ${table($R!=&quot;&quot;?&quot;adminer_$D&quot;:$D)}" />
+                <marker date="1489690519117" expanded="true" signature="110504:110634" ph="INSERT INTO ${table(&quot;adminer_$D&quot;)}... " />
+                <marker date="1489690519117" expanded="true" signature="110564:110634" ph="SELECT ${imp... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="110832:110843" ph="DROP TABLE $... " />
+                <marker date="1489690519117" expanded="true" signature="110878:110924" ph="ALTER TABLE ${table(&quot;adminer_$D&quot;)}... " />
+                <marker date="1489690519117" expanded="true" signature="112046:112110" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="112380:112446" ph="SELECT * FRO... sqlite_master" />
+                <marker date="1489690519117" expanded="true" signature="113295:113368" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="113569:113581" ph="DELETE FROM " />
+                <marker date="1489690519117" expanded="true" signature="113670:113748" ph="SELECT sql |... " />
+                <marker date="1489690519117" expanded="true" signature="118384:118474" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="118847:118944" ph="SELECT datna... pg_database" />
+                <marker date="1489690519117" expanded="true" signature="119296:119394" ph="SELECT table... tables" />
+                <marker date="1489690519117" expanded="true" signature="119680:120145" ph="SELECT c.rel... pg_class" />
+                <marker date="1489690519117" expanded="true" signature="120516:120966" ph="SELECT a.att... " />
+                <marker date="1489690519117" expanded="true" signature="121642:121766" ph="SELECT oid F... pg_class" />
+                <marker date="1489690519117" expanded="true" signature="121689:121750" ph="SELECT oid F... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="121792:121868" ph="SELECT attnu... pg_attribute" />
+                <marker date="1489690519117" expanded="true" signature="121892:122085" ph="SELECT relna... pg_index" />
+                <marker date="1489690519117" expanded="true" signature="122528:122861" ph="SELECT conna... " />
+                <marker date="1489690519117" expanded="true" signature="124601:124640" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="124949:125003" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="125035:125062" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="125108:125144" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="125771:125783" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="126581:127036" ph="SELECT t.tri... triggers" />
+                <marker date="1489690519117" expanded="true" signature="126647:126809" ph="SELECT STRIN... triggers" />
+                <marker date="1489690519117" expanded="true" signature="127114:127183" ph="SELECT * FRO... triggers" />
+                <marker date="1489690519117" expanded="true" signature="127489:127757" ph="SELECT p.pro... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="127807:127850" ph="SELECT langn... pg_language" />
+                <marker date="1489690519117" expanded="true" signature="128171:128328" ph="SELECT typna... pg_type" />
+                <marker date="1489690519117" expanded="true" signature="128221:128282" ph="SELECT oid F... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="128368:128417" ph="SELECT nspna... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="128885:128958" ph="CREATE TABLE... ${idf_escape($if['Name'])}" />
+                <marker date="1489690519117" expanded="true" signature="129222:129236" ph="SELECT * FRO... ${$Ue}" />
+                <marker date="1489690519117" expanded="true" signature="130941:130981" ph="SELECT * FRO... pg_stat_activity" />
+                <marker date="1489690519117" expanded="true" signature="135161:135205" ph="SELECT table... user_tablespaces" />
+                <marker date="1489690519117" expanded="true" signature="135532:135610" ph="SELECT value... nls_database_parameters" />
+                <marker date="1489690519117" expanded="true" signature="135699:135720" ph="SELECT USER DUAL" />
+                <marker date="1489690519117" expanded="true" signature="135768:135835" ph="SELECT table... all_tables" />
+                <marker date="1489690519117" expanded="true" signature="135768:135902" ph="SELECT table... " />
+                <marker date="1489690519117" expanded="true" signature="135851:135891" ph="SELECT view_... user_views" />
+                <marker date="1489690519117" expanded="true" signature="136016:136156" ph="SELECT table... all_tables" />
+                <marker date="1489690519117" expanded="true" signature="136016:136305" ph="SELECT table... " />
+                <marker date="1489690519117" expanded="true" signature="136208:136254" ph="SELECT view_... user_views" />
+                <marker date="1489690519117" expanded="true" signature="136496:136573" ph="SELECT * FRO... all_tab_columns" />
+                <marker date="1489690519117" expanded="true" signature="136987:137231" ph="SELECT uic.*... user_ind_columns" />
+                <marker date="1489690519117" expanded="true" signature="137593:137648" ph="SELECT text user_views" />
+                <marker date="1489690519117" expanded="true" signature="137880:137904" ph="SELECT * FRO... plan_table" />
+                <marker date="1489690519117" expanded="true" signature="138083:138148" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138295:138349" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="138373:138400" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138438:138492" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138515:138551" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138607:139044" ph="SELECT c_lis... ALL_CONSTRAINTS" />
+                <marker date="1489690519117" expanded="true" signature="139537:139676" ph="SELECT DISTI... dba_segments" />
+                <marker date="1489690519117" expanded="true" signature="139593:139675" ph="SELECT usern... dba_users" />
+                <marker date="1489690519117" expanded="true" signature="139729:139784" ph="SELECT sys_c... dual" />
+                <marker date="1489690519117" expanded="true" signature="139941:139984" ph="SELECT name,... v$parameter" />
+                <marker date="1489690519117" expanded="true" signature="140029:140410" ph="SELECT sess.... v$session" />
+                <marker date="1489690519117" expanded="true" signature="140451:140475" ph="SELECT * FRO... v$instance" />
+                <marker date="1489690519117" expanded="true" signature="146694:146780" ph="SELECT name databases" />
+                <marker date="1489690519117" expanded="true" signature="146978:147033" ph="SELECT colla... databases" />
+                <marker date="1489690519117" expanded="true" signature="147195:147329" ph="SELECT name,... all_objects" />
+                <marker date="1489690519117" expanded="true" signature="147433:147479" ph="SELECT COUNT... TABLES" />
+                <marker date="1489690519117" expanded="true" signature="147551:147690" ph="SELECT name all_objects" />
+                <marker date="1489690519117" expanded="true" signature="147926:148275" ph="SELECT c.*, all_columns" />
+                <marker date="1489690519117" expanded="true" signature="148779:149104" ph="SELECT i.nam... indexes" />
+                <marker date="1489690519117" expanded="true" signature="149496:149601" ph="SELECT VIEW_... VIEWS" />
+                <marker date="1489690519117" expanded="true" signature="149664:149700" ph="SELECT name fn_helpcollations" />
+                <marker date="1489690519117" expanded="true" signature="150968:151032" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="151148:151179" ph="ALTER TABLE ${idf_escape($D)}... " />
+                <marker date="1489690519117" expanded="true" signature="151544:151585" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="151702:151733" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="152413:152424" ph="DROP TABLE $... " />
+                <marker date="1489690519117" expanded="true" signature="152643:152978" ph="SELECT s.nam... " />
+                <marker date="1489690519117" expanded="true" signature="153240:153580" ph="SELECT sys1.... " />
+                <marker date="1489690519117" expanded="true" signature="153955:153983" ph="SELECT name schemas" />
+                <marker date="1489690519117" expanded="true" signature="157647:157716" ph="SELECT RDB$R... rdb$relations" />
+                <marker date="1489690519117" expanded="true" signature="158235:159355" ph="SELECT r.RDB... RDB$RELATION_FIELDS" />
+                <marker date="1489690519117" expanded="true" signature="162711:162734" ph="SELECT itemN... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="181751:181790" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="181858:181913" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="182915:182966" ph="SELECT SCHEM... SCHEMATA" />
+                <marker date="1489690519117" expanded="true" signature="183760:183872" ph="SELECT TABLE... TABLES" />
+                <marker date="1489690519117" expanded="true" signature="184111:184244" ph="SELECT TABLE... TABLES" />
+                <marker date="1489690519117" expanded="true" signature="188467:188521" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="188615:188642" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="188906:188918" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="189153:189164" ph="DROP TABLE $... " />
+                <marker date="1489690519117" expanded="true" signature="189597:189618" ph="CREATE TABLE... ${$D}" />
+                <marker date="1489690519117" expanded="true" signature="189642:189671" ph="INSERT INTO ${$D}... " />
+                <marker date="1489690519117" expanded="true" signature="189657:189671" ph="SELECT * FRO... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="191609:191715" ph="SELECT ROUTI... ROUTINES" />
+                <marker date="1489690519117" expanded="true" signature="196424:196433" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="196627:196770" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="196713:196769" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="197432:197709" ph="SELECT TABLE... KEY_COLUMN_USAGE" />
+                <marker date="1489690519117" expanded="true" signature="198905:198973" ph="SELECT ${$u}... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="202098:202112" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="210711:210755" ph="SELECT ${$u}... ${table($uf)}" />
+                <marker date="1489690519117" expanded="true" signature="210796:210837" ph="SELECT ${$D}... ${table($uf)}" />
+                <marker date="1489690519117" expanded="true" signature="212754:212761" ph="»" />
+                <marker date="1489690519117" expanded="true" signature="214208:214270" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="214227:214270" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="228400:228414" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="235028:235057" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="235210:235251" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="236530:236689" ph="SELECT ${$u}... ${table($R)}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editor-4.3.0.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/editor-4.3.0.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1489690519117" expanded="true" signature="28801:28811" ph="{...}" />
+                <marker date="1489690519117" expanded="true" signature="99506:99518" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="104212:104322" ph="SELECT name,... sqlite_master" />
+                <marker date="1489690519117" expanded="true" signature="104437:104524" ph="SELECT name sqlite_master" />
+                <marker date="1489690519117" expanded="true" signature="104636:104657" ph="SELECT COUNT... ${idf_escape($L[&quot;Name&quot;])}" />
+                <marker date="1489690519117" expanded="true" signature="104720:104749" ph="SELECT * FRO... sqlite_sequence" />
+                <marker date="1489690519117" expanded="true" signature="105717:105779" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="106113:106175" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="106719:106791" ph="SELECT name,... " />
+                <marker date="1489690519117" expanded="true" signature="107771:107814" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="108464:108488" ph="CREATE TABLE... adminer" />
+                <marker date="1489690519117" expanded="true" signature="108502:108520" ph="DROP TABLE a... " />
+                <marker date="1489690519117" expanded="true" signature="109216:109242" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="109282:109318" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="109415:109465" ph="UPDATE sqlit... " />
+                <marker date="1489690519117" expanded="true" signature="110385:110459" ph="CREATE TABLE... ${table($R!=&quot;&quot;?&quot;adminer_$D&quot;:$D)}" />
+                <marker date="1489690519117" expanded="true" signature="110504:110634" ph="INSERT INTO ${table(&quot;adminer_$D&quot;)}... " />
+                <marker date="1489690519117" expanded="true" signature="110564:110634" ph="SELECT ${imp... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="110832:110843" ph="DROP TABLE $... " />
+                <marker date="1489690519117" expanded="true" signature="110878:110924" ph="ALTER TABLE ${table(&quot;adminer_$D&quot;)}... " />
+                <marker date="1489690519117" expanded="true" signature="112046:112110" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="112380:112446" ph="SELECT * FRO... sqlite_master" />
+                <marker date="1489690519117" expanded="true" signature="113295:113368" ph="SELECT sql F... " />
+                <marker date="1489690519117" expanded="true" signature="113569:113581" ph="DELETE FROM " />
+                <marker date="1489690519117" expanded="true" signature="113670:113748" ph="SELECT sql |... " />
+                <marker date="1489690519117" expanded="true" signature="118384:118474" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="118847:118944" ph="SELECT datna... pg_database" />
+                <marker date="1489690519117" expanded="true" signature="119296:119394" ph="SELECT table... tables" />
+                <marker date="1489690519117" expanded="true" signature="119680:120145" ph="SELECT c.rel... pg_class" />
+                <marker date="1489690519117" expanded="true" signature="120516:120966" ph="SELECT a.att... " />
+                <marker date="1489690519117" expanded="true" signature="121642:121766" ph="SELECT oid F... pg_class" />
+                <marker date="1489690519117" expanded="true" signature="121689:121750" ph="SELECT oid F... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="121792:121868" ph="SELECT attnu... pg_attribute" />
+                <marker date="1489690519117" expanded="true" signature="121892:122085" ph="SELECT relna... pg_index" />
+                <marker date="1489690519117" expanded="true" signature="122528:122861" ph="SELECT conna... " />
+                <marker date="1489690519117" expanded="true" signature="124601:124640" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="124949:125003" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="125035:125062" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="125108:125144" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="125771:125783" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="126581:127036" ph="SELECT t.tri... triggers" />
+                <marker date="1489690519117" expanded="true" signature="126647:126809" ph="SELECT STRIN... triggers" />
+                <marker date="1489690519117" expanded="true" signature="127114:127183" ph="SELECT * FRO... triggers" />
+                <marker date="1489690519117" expanded="true" signature="127489:127757" ph="SELECT p.pro... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="127807:127850" ph="SELECT langn... pg_language" />
+                <marker date="1489690519117" expanded="true" signature="128171:128328" ph="SELECT typna... pg_type" />
+                <marker date="1489690519117" expanded="true" signature="128221:128282" ph="SELECT oid F... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="128368:128417" ph="SELECT nspna... pg_namespace" />
+                <marker date="1489690519117" expanded="true" signature="128885:128958" ph="CREATE TABLE... ${idf_escape($if['Name'])}" />
+                <marker date="1489690519117" expanded="true" signature="129222:129236" ph="SELECT * FRO... ${$Ue}" />
+                <marker date="1489690519117" expanded="true" signature="130941:130981" ph="SELECT * FRO... pg_stat_activity" />
+                <marker date="1489690519117" expanded="true" signature="135161:135205" ph="SELECT table... user_tablespaces" />
+                <marker date="1489690519117" expanded="true" signature="135532:135610" ph="SELECT value... nls_database_parameters" />
+                <marker date="1489690519117" expanded="true" signature="135699:135720" ph="SELECT USER DUAL" />
+                <marker date="1489690519117" expanded="true" signature="135768:135835" ph="SELECT table... all_tables" />
+                <marker date="1489690519117" expanded="true" signature="135768:135902" ph="SELECT table... " />
+                <marker date="1489690519117" expanded="true" signature="135851:135891" ph="SELECT view_... user_views" />
+                <marker date="1489690519117" expanded="true" signature="136016:136156" ph="SELECT table... all_tables" />
+                <marker date="1489690519117" expanded="true" signature="136016:136305" ph="SELECT table... " />
+                <marker date="1489690519117" expanded="true" signature="136208:136254" ph="SELECT view_... user_views" />
+                <marker date="1489690519117" expanded="true" signature="136496:136573" ph="SELECT * FRO... all_tab_columns" />
+                <marker date="1489690519117" expanded="true" signature="136987:137231" ph="SELECT uic.*... user_ind_columns" />
+                <marker date="1489690519117" expanded="true" signature="137593:137648" ph="SELECT text user_views" />
+                <marker date="1489690519117" expanded="true" signature="137880:137904" ph="SELECT * FRO... plan_table" />
+                <marker date="1489690519117" expanded="true" signature="138083:138148" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138295:138349" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="138373:138400" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138438:138492" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138515:138551" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="138607:139044" ph="SELECT c_lis... ALL_CONSTRAINTS" />
+                <marker date="1489690519117" expanded="true" signature="139537:139676" ph="SELECT DISTI... dba_segments" />
+                <marker date="1489690519117" expanded="true" signature="139593:139675" ph="SELECT usern... dba_users" />
+                <marker date="1489690519117" expanded="true" signature="139729:139784" ph="SELECT sys_c... dual" />
+                <marker date="1489690519117" expanded="true" signature="139941:139984" ph="SELECT name,... v$parameter" />
+                <marker date="1489690519117" expanded="true" signature="140029:140410" ph="SELECT sess.... v$session" />
+                <marker date="1489690519117" expanded="true" signature="140451:140475" ph="SELECT * FRO... v$instance" />
+                <marker date="1489690519117" expanded="true" signature="146694:146780" ph="SELECT name databases" />
+                <marker date="1489690519117" expanded="true" signature="146978:147033" ph="SELECT colla... databases" />
+                <marker date="1489690519117" expanded="true" signature="147195:147329" ph="SELECT name,... all_objects" />
+                <marker date="1489690519117" expanded="true" signature="147433:147479" ph="SELECT COUNT... TABLES" />
+                <marker date="1489690519117" expanded="true" signature="147551:147690" ph="SELECT name all_objects" />
+                <marker date="1489690519117" expanded="true" signature="147926:148275" ph="SELECT c.*, all_columns" />
+                <marker date="1489690519117" expanded="true" signature="148779:149104" ph="SELECT i.nam... indexes" />
+                <marker date="1489690519117" expanded="true" signature="149496:149601" ph="SELECT VIEW_... VIEWS" />
+                <marker date="1489690519117" expanded="true" signature="149664:149700" ph="SELECT name fn_helpcollations" />
+                <marker date="1489690519117" expanded="true" signature="150968:151032" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="151148:151179" ph="ALTER TABLE ${idf_escape($D)}... " />
+                <marker date="1489690519117" expanded="true" signature="151544:151585" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="151702:151733" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="152413:152424" ph="DROP TABLE $... " />
+                <marker date="1489690519117" expanded="true" signature="152643:152978" ph="SELECT s.nam... " />
+                <marker date="1489690519117" expanded="true" signature="153240:153580" ph="SELECT sys1.... " />
+                <marker date="1489690519117" expanded="true" signature="153955:153983" ph="SELECT name schemas" />
+                <marker date="1489690519117" expanded="true" signature="157647:157716" ph="SELECT RDB$R... rdb$relations" />
+                <marker date="1489690519117" expanded="true" signature="158235:159355" ph="SELECT r.RDB... RDB$RELATION_FIELDS" />
+                <marker date="1489690519117" expanded="true" signature="162711:162734" ph="SELECT itemN... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="181751:181790" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="181858:181913" ph="INSERT INTO ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="182915:182966" ph="SELECT SCHEM... SCHEMATA" />
+                <marker date="1489690519117" expanded="true" signature="183760:183872" ph="SELECT TABLE... TABLES" />
+                <marker date="1489690519117" expanded="true" signature="184111:184244" ph="SELECT TABLE... TABLES" />
+                <marker date="1489690519117" expanded="true" signature="188467:188521" ph="CREATE TABLE... ${table($D)}" />
+                <marker date="1489690519117" expanded="true" signature="188615:188642" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="188906:188918" ph="ALTER TABLE ${table($R)}... " />
+                <marker date="1489690519117" expanded="true" signature="189153:189164" ph="DROP TABLE $... " />
+                <marker date="1489690519117" expanded="true" signature="189597:189618" ph="CREATE TABLE... ${$D}" />
+                <marker date="1489690519117" expanded="true" signature="189642:189671" ph="INSERT INTO ${$D}... " />
+                <marker date="1489690519117" expanded="true" signature="189657:189671" ph="SELECT * FRO... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="191609:191715" ph="SELECT ROUTI... ROUTINES" />
+                <marker date="1489690519117" expanded="true" signature="196424:196433" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="196627:196770" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="196713:196769" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="197432:197709" ph="SELECT TABLE... KEY_COLUMN_USAGE" />
+                <marker date="1489690519117" expanded="true" signature="198905:198973" ph="SELECT ${$u}... ${table($R)}" />
+                <marker date="1489690519117" expanded="true" signature="202098:202112" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="210711:210755" ph="SELECT ${$u}... ${table($uf)}" />
+                <marker date="1489690519117" expanded="true" signature="210796:210837" ph="SELECT ${$D}... ${table($uf)}" />
+                <marker date="1489690519117" expanded="true" signature="212754:212761" ph="»" />
+                <marker date="1489690519117" expanded="true" signature="214208:214270" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="214227:214270" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="228400:228414" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="235028:235057" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="235210:235251" ph="..." />
+                <marker date="1489690519117" expanded="true" signature="236530:236689" ph="SELECT ${$u}... ${table($R)}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+      <file leaf-file-name="cmm513.asset" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.asset">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DATABASE/736cf024-22e5-4136-bc65-5fd29fa714d9" pinned="false" current-in-tab="false">
+        <entry file="uml://DATABASE/736cf024-22e5-4136-bc65-5fd29fa714d9">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>736cf024-22e5-4136-bc65-5fd29fa714d9</OriginalElement>
+              <nodes>
+                <node x="337.0" y="318.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.client</node>
+                <node x="0.0" y="570.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.sale</node>
+                <node x="0.0" y="318.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.supplier</node>
+                <node x="0.0" y="0.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.asset</node>
+                <node x="387.0" y="0.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.purchase</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="0.47332421340629277" x="132.8265895953757" y="497.05202312138726" />
+              <SelectedNodes>
+                <node>736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.asset</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
             </state>
           </provider>
         </entry>
@@ -82,11 +403,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/test2.html" />
         <option value="dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.person" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/736cf024-22e5-4136-bc65-5fd29fa714d9/console.sql" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -98,10 +419,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="1036" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -119,7 +439,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,18 +454,21 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_f02737a78695063deace08e96d5042710d3e32db/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aenabure\PhpstormProjects\CMM513" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aenabure\PhpstormProjects\CMM513" />
     </key>
@@ -239,7 +562,10 @@
       <workItem from="1488897494511" duration="642000" />
       <workItem from="1488911342316" duration="3800000" />
       <workItem from="1489087172669" duration="21000" />
-      <workItem from="1489087238162" duration="129000" />
+      <workItem from="1489087238162" duration="4411000" />
+      <workItem from="1489164447768" duration="735000" />
+      <workItem from="1489611270128" duration="1153000" />
+      <workItem from="1489681449062" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1487765995621</created>
@@ -318,34 +644,41 @@
       <option name="project" value="LOCAL" />
       <updated>1488914233588</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="first">
+      <created>1489087375418</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1489087375418</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12996000" />
+    <option name="totallyTimeSpent" value="20515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-7" y="0" width="1036" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1828528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3668033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27996966" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33388704" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08504099" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.49029127" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,182 +704,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="dbDummy://dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.asset">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.person">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.asset">
       <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/736cf024-22e5-4136-bc65-5fd29fa714d9/console.sql">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.person">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -570,11 +918,359 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/736cf024-22e5-4136-bc65-5fd29fa714d9/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.supplier">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/736cf024-22e5-4136-bc65-5fd29fa714d9">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>736cf024-22e5-4136-bc65-5fd29fa714d9</OriginalElement>
+          <nodes>
+            <node x="337.0" y="318.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.client</node>
+            <node x="0.0" y="570.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.sale</node>
+            <node x="0.0" y="318.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.supplier</node>
+            <node x="0.0" y="0.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.asset</node>
+            <node x="387.0" y="0.0">736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.purchase</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.47332421340629277" x="132.8265895953757" y="497.05202312138726" />
+          <SelectedNodes>
+            <node>736cf024-22e5-4136-bc65-5fd29fa714d9.TABLE:cmm513.asset</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/92c7b2bf/736cf024-22e5-4136-bc65-5fd29fa714d9/cmm513.asset">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/editor-4.3.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489690519117" expanded="true" signature="28801:28811" ph="{...}" />
+            <marker date="1489690519117" expanded="true" signature="99506:99518" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="104212:104322" ph="SELECT name,... sqlite_master" />
+            <marker date="1489690519117" expanded="true" signature="104437:104524" ph="SELECT name sqlite_master" />
+            <marker date="1489690519117" expanded="true" signature="104636:104657" ph="SELECT COUNT... ${idf_escape($L[&quot;Name&quot;])}" />
+            <marker date="1489690519117" expanded="true" signature="104720:104749" ph="SELECT * FRO... sqlite_sequence" />
+            <marker date="1489690519117" expanded="true" signature="105717:105779" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="106113:106175" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="106719:106791" ph="SELECT name,... " />
+            <marker date="1489690519117" expanded="true" signature="107771:107814" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="108464:108488" ph="CREATE TABLE... adminer" />
+            <marker date="1489690519117" expanded="true" signature="108502:108520" ph="DROP TABLE a... " />
+            <marker date="1489690519117" expanded="true" signature="109216:109242" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="109282:109318" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="109415:109465" ph="UPDATE sqlit... " />
+            <marker date="1489690519117" expanded="true" signature="110385:110459" ph="CREATE TABLE... ${table($R!=&quot;&quot;?&quot;adminer_$D&quot;:$D)}" />
+            <marker date="1489690519117" expanded="true" signature="110504:110634" ph="INSERT INTO ${table(&quot;adminer_$D&quot;)}... " />
+            <marker date="1489690519117" expanded="true" signature="110564:110634" ph="SELECT ${imp... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="110832:110843" ph="DROP TABLE $... " />
+            <marker date="1489690519117" expanded="true" signature="110878:110924" ph="ALTER TABLE ${table(&quot;adminer_$D&quot;)}... " />
+            <marker date="1489690519117" expanded="true" signature="112046:112110" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="112380:112446" ph="SELECT * FRO... sqlite_master" />
+            <marker date="1489690519117" expanded="true" signature="113295:113368" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="113569:113581" ph="DELETE FROM " />
+            <marker date="1489690519117" expanded="true" signature="113670:113748" ph="SELECT sql |... " />
+            <marker date="1489690519117" expanded="true" signature="118384:118474" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="118847:118944" ph="SELECT datna... pg_database" />
+            <marker date="1489690519117" expanded="true" signature="119296:119394" ph="SELECT table... tables" />
+            <marker date="1489690519117" expanded="true" signature="119680:120145" ph="SELECT c.rel... pg_class" />
+            <marker date="1489690519117" expanded="true" signature="120516:120966" ph="SELECT a.att... " />
+            <marker date="1489690519117" expanded="true" signature="121642:121766" ph="SELECT oid F... pg_class" />
+            <marker date="1489690519117" expanded="true" signature="121689:121750" ph="SELECT oid F... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="121792:121868" ph="SELECT attnu... pg_attribute" />
+            <marker date="1489690519117" expanded="true" signature="121892:122085" ph="SELECT relna... pg_index" />
+            <marker date="1489690519117" expanded="true" signature="122528:122861" ph="SELECT conna... " />
+            <marker date="1489690519117" expanded="true" signature="124601:124640" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="124949:125003" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="125035:125062" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="125108:125144" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="125771:125783" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="126581:127036" ph="SELECT t.tri... triggers" />
+            <marker date="1489690519117" expanded="true" signature="126647:126809" ph="SELECT STRIN... triggers" />
+            <marker date="1489690519117" expanded="true" signature="127114:127183" ph="SELECT * FRO... triggers" />
+            <marker date="1489690519117" expanded="true" signature="127489:127757" ph="SELECT p.pro... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="127807:127850" ph="SELECT langn... pg_language" />
+            <marker date="1489690519117" expanded="true" signature="128171:128328" ph="SELECT typna... pg_type" />
+            <marker date="1489690519117" expanded="true" signature="128221:128282" ph="SELECT oid F... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="128368:128417" ph="SELECT nspna... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="128885:128958" ph="CREATE TABLE... ${idf_escape($if['Name'])}" />
+            <marker date="1489690519117" expanded="true" signature="129222:129236" ph="SELECT * FRO... ${$Ue}" />
+            <marker date="1489690519117" expanded="true" signature="130941:130981" ph="SELECT * FRO... pg_stat_activity" />
+            <marker date="1489690519117" expanded="true" signature="135161:135205" ph="SELECT table... user_tablespaces" />
+            <marker date="1489690519117" expanded="true" signature="135532:135610" ph="SELECT value... nls_database_parameters" />
+            <marker date="1489690519117" expanded="true" signature="135699:135720" ph="SELECT USER DUAL" />
+            <marker date="1489690519117" expanded="true" signature="135768:135835" ph="SELECT table... all_tables" />
+            <marker date="1489690519117" expanded="true" signature="135768:135902" ph="SELECT table... " />
+            <marker date="1489690519117" expanded="true" signature="135851:135891" ph="SELECT view_... user_views" />
+            <marker date="1489690519117" expanded="true" signature="136016:136156" ph="SELECT table... all_tables" />
+            <marker date="1489690519117" expanded="true" signature="136016:136305" ph="SELECT table... " />
+            <marker date="1489690519117" expanded="true" signature="136208:136254" ph="SELECT view_... user_views" />
+            <marker date="1489690519117" expanded="true" signature="136496:136573" ph="SELECT * FRO... all_tab_columns" />
+            <marker date="1489690519117" expanded="true" signature="136987:137231" ph="SELECT uic.*... user_ind_columns" />
+            <marker date="1489690519117" expanded="true" signature="137593:137648" ph="SELECT text user_views" />
+            <marker date="1489690519117" expanded="true" signature="137880:137904" ph="SELECT * FRO... plan_table" />
+            <marker date="1489690519117" expanded="true" signature="138083:138148" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138295:138349" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="138373:138400" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138438:138492" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138515:138551" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138607:139044" ph="SELECT c_lis... ALL_CONSTRAINTS" />
+            <marker date="1489690519117" expanded="true" signature="139537:139676" ph="SELECT DISTI... dba_segments" />
+            <marker date="1489690519117" expanded="true" signature="139593:139675" ph="SELECT usern... dba_users" />
+            <marker date="1489690519117" expanded="true" signature="139729:139784" ph="SELECT sys_c... dual" />
+            <marker date="1489690519117" expanded="true" signature="139941:139984" ph="SELECT name,... v$parameter" />
+            <marker date="1489690519117" expanded="true" signature="140029:140410" ph="SELECT sess.... v$session" />
+            <marker date="1489690519117" expanded="true" signature="140451:140475" ph="SELECT * FRO... v$instance" />
+            <marker date="1489690519117" expanded="true" signature="146694:146780" ph="SELECT name databases" />
+            <marker date="1489690519117" expanded="true" signature="146978:147033" ph="SELECT colla... databases" />
+            <marker date="1489690519117" expanded="true" signature="147195:147329" ph="SELECT name,... all_objects" />
+            <marker date="1489690519117" expanded="true" signature="147433:147479" ph="SELECT COUNT... TABLES" />
+            <marker date="1489690519117" expanded="true" signature="147551:147690" ph="SELECT name all_objects" />
+            <marker date="1489690519117" expanded="true" signature="147926:148275" ph="SELECT c.*, all_columns" />
+            <marker date="1489690519117" expanded="true" signature="148779:149104" ph="SELECT i.nam... indexes" />
+            <marker date="1489690519117" expanded="true" signature="149496:149601" ph="SELECT VIEW_... VIEWS" />
+            <marker date="1489690519117" expanded="true" signature="149664:149700" ph="SELECT name fn_helpcollations" />
+            <marker date="1489690519117" expanded="true" signature="150968:151032" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="151148:151179" ph="ALTER TABLE ${idf_escape($D)}... " />
+            <marker date="1489690519117" expanded="true" signature="151544:151585" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="151702:151733" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="152413:152424" ph="DROP TABLE $... " />
+            <marker date="1489690519117" expanded="true" signature="152643:152978" ph="SELECT s.nam... " />
+            <marker date="1489690519117" expanded="true" signature="153240:153580" ph="SELECT sys1.... " />
+            <marker date="1489690519117" expanded="true" signature="153955:153983" ph="SELECT name schemas" />
+            <marker date="1489690519117" expanded="true" signature="157647:157716" ph="SELECT RDB$R... rdb$relations" />
+            <marker date="1489690519117" expanded="true" signature="158235:159355" ph="SELECT r.RDB... RDB$RELATION_FIELDS" />
+            <marker date="1489690519117" expanded="true" signature="162711:162734" ph="SELECT itemN... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="181751:181790" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="181858:181913" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="182915:182966" ph="SELECT SCHEM... SCHEMATA" />
+            <marker date="1489690519117" expanded="true" signature="183760:183872" ph="SELECT TABLE... TABLES" />
+            <marker date="1489690519117" expanded="true" signature="184111:184244" ph="SELECT TABLE... TABLES" />
+            <marker date="1489690519117" expanded="true" signature="188467:188521" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="188615:188642" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="188906:188918" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="189153:189164" ph="DROP TABLE $... " />
+            <marker date="1489690519117" expanded="true" signature="189597:189618" ph="CREATE TABLE... ${$D}" />
+            <marker date="1489690519117" expanded="true" signature="189642:189671" ph="INSERT INTO ${$D}... " />
+            <marker date="1489690519117" expanded="true" signature="189657:189671" ph="SELECT * FRO... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="191609:191715" ph="SELECT ROUTI... ROUTINES" />
+            <marker date="1489690519117" expanded="true" signature="196424:196433" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="196627:196770" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="196713:196769" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="197432:197709" ph="SELECT TABLE... KEY_COLUMN_USAGE" />
+            <marker date="1489690519117" expanded="true" signature="198905:198973" ph="SELECT ${$u}... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="202098:202112" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="210711:210755" ph="SELECT ${$u}... ${table($uf)}" />
+            <marker date="1489690519117" expanded="true" signature="210796:210837" ph="SELECT ${$D}... ${table($uf)}" />
+            <marker date="1489690519117" expanded="true" signature="212754:212761" ph="»" />
+            <marker date="1489690519117" expanded="true" signature="214208:214270" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="214227:214270" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="228400:228414" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="235028:235057" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="235210:235251" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="236530:236689" ph="SELECT ${$u}... ${table($R)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editor-4.3.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489690519117" expanded="true" signature="28801:28811" ph="{...}" />
+            <marker date="1489690519117" expanded="true" signature="99506:99518" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="104212:104322" ph="SELECT name,... sqlite_master" />
+            <marker date="1489690519117" expanded="true" signature="104437:104524" ph="SELECT name sqlite_master" />
+            <marker date="1489690519117" expanded="true" signature="104636:104657" ph="SELECT COUNT... ${idf_escape($L[&quot;Name&quot;])}" />
+            <marker date="1489690519117" expanded="true" signature="104720:104749" ph="SELECT * FRO... sqlite_sequence" />
+            <marker date="1489690519117" expanded="true" signature="105717:105779" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="106113:106175" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="106719:106791" ph="SELECT name,... " />
+            <marker date="1489690519117" expanded="true" signature="107771:107814" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="108464:108488" ph="CREATE TABLE... adminer" />
+            <marker date="1489690519117" expanded="true" signature="108502:108520" ph="DROP TABLE a... " />
+            <marker date="1489690519117" expanded="true" signature="109216:109242" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="109282:109318" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="109415:109465" ph="UPDATE sqlit... " />
+            <marker date="1489690519117" expanded="true" signature="110385:110459" ph="CREATE TABLE... ${table($R!=&quot;&quot;?&quot;adminer_$D&quot;:$D)}" />
+            <marker date="1489690519117" expanded="true" signature="110504:110634" ph="INSERT INTO ${table(&quot;adminer_$D&quot;)}... " />
+            <marker date="1489690519117" expanded="true" signature="110564:110634" ph="SELECT ${imp... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="110832:110843" ph="DROP TABLE $... " />
+            <marker date="1489690519117" expanded="true" signature="110878:110924" ph="ALTER TABLE ${table(&quot;adminer_$D&quot;)}... " />
+            <marker date="1489690519117" expanded="true" signature="112046:112110" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="112380:112446" ph="SELECT * FRO... sqlite_master" />
+            <marker date="1489690519117" expanded="true" signature="113295:113368" ph="SELECT sql F... " />
+            <marker date="1489690519117" expanded="true" signature="113569:113581" ph="DELETE FROM " />
+            <marker date="1489690519117" expanded="true" signature="113670:113748" ph="SELECT sql |... " />
+            <marker date="1489690519117" expanded="true" signature="118384:118474" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="118847:118944" ph="SELECT datna... pg_database" />
+            <marker date="1489690519117" expanded="true" signature="119296:119394" ph="SELECT table... tables" />
+            <marker date="1489690519117" expanded="true" signature="119680:120145" ph="SELECT c.rel... pg_class" />
+            <marker date="1489690519117" expanded="true" signature="120516:120966" ph="SELECT a.att... " />
+            <marker date="1489690519117" expanded="true" signature="121642:121766" ph="SELECT oid F... pg_class" />
+            <marker date="1489690519117" expanded="true" signature="121689:121750" ph="SELECT oid F... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="121792:121868" ph="SELECT attnu... pg_attribute" />
+            <marker date="1489690519117" expanded="true" signature="121892:122085" ph="SELECT relna... pg_index" />
+            <marker date="1489690519117" expanded="true" signature="122528:122861" ph="SELECT conna... " />
+            <marker date="1489690519117" expanded="true" signature="124601:124640" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="124949:125003" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="125035:125062" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="125108:125144" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="125771:125783" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="126581:127036" ph="SELECT t.tri... triggers" />
+            <marker date="1489690519117" expanded="true" signature="126647:126809" ph="SELECT STRIN... triggers" />
+            <marker date="1489690519117" expanded="true" signature="127114:127183" ph="SELECT * FRO... triggers" />
+            <marker date="1489690519117" expanded="true" signature="127489:127757" ph="SELECT p.pro... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="127807:127850" ph="SELECT langn... pg_language" />
+            <marker date="1489690519117" expanded="true" signature="128171:128328" ph="SELECT typna... pg_type" />
+            <marker date="1489690519117" expanded="true" signature="128221:128282" ph="SELECT oid F... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="128368:128417" ph="SELECT nspna... pg_namespace" />
+            <marker date="1489690519117" expanded="true" signature="128885:128958" ph="CREATE TABLE... ${idf_escape($if['Name'])}" />
+            <marker date="1489690519117" expanded="true" signature="129222:129236" ph="SELECT * FRO... ${$Ue}" />
+            <marker date="1489690519117" expanded="true" signature="130941:130981" ph="SELECT * FRO... pg_stat_activity" />
+            <marker date="1489690519117" expanded="true" signature="135161:135205" ph="SELECT table... user_tablespaces" />
+            <marker date="1489690519117" expanded="true" signature="135532:135610" ph="SELECT value... nls_database_parameters" />
+            <marker date="1489690519117" expanded="true" signature="135699:135720" ph="SELECT USER DUAL" />
+            <marker date="1489690519117" expanded="true" signature="135768:135835" ph="SELECT table... all_tables" />
+            <marker date="1489690519117" expanded="true" signature="135768:135902" ph="SELECT table... " />
+            <marker date="1489690519117" expanded="true" signature="135851:135891" ph="SELECT view_... user_views" />
+            <marker date="1489690519117" expanded="true" signature="136016:136156" ph="SELECT table... all_tables" />
+            <marker date="1489690519117" expanded="true" signature="136016:136305" ph="SELECT table... " />
+            <marker date="1489690519117" expanded="true" signature="136208:136254" ph="SELECT view_... user_views" />
+            <marker date="1489690519117" expanded="true" signature="136496:136573" ph="SELECT * FRO... all_tab_columns" />
+            <marker date="1489690519117" expanded="true" signature="136987:137231" ph="SELECT uic.*... user_ind_columns" />
+            <marker date="1489690519117" expanded="true" signature="137593:137648" ph="SELECT text user_views" />
+            <marker date="1489690519117" expanded="true" signature="137880:137904" ph="SELECT * FRO... plan_table" />
+            <marker date="1489690519117" expanded="true" signature="138083:138148" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138295:138349" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="138373:138400" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138438:138492" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138515:138551" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="138607:139044" ph="SELECT c_lis... ALL_CONSTRAINTS" />
+            <marker date="1489690519117" expanded="true" signature="139537:139676" ph="SELECT DISTI... dba_segments" />
+            <marker date="1489690519117" expanded="true" signature="139593:139675" ph="SELECT usern... dba_users" />
+            <marker date="1489690519117" expanded="true" signature="139729:139784" ph="SELECT sys_c... dual" />
+            <marker date="1489690519117" expanded="true" signature="139941:139984" ph="SELECT name,... v$parameter" />
+            <marker date="1489690519117" expanded="true" signature="140029:140410" ph="SELECT sess.... v$session" />
+            <marker date="1489690519117" expanded="true" signature="140451:140475" ph="SELECT * FRO... v$instance" />
+            <marker date="1489690519117" expanded="true" signature="146694:146780" ph="SELECT name databases" />
+            <marker date="1489690519117" expanded="true" signature="146978:147033" ph="SELECT colla... databases" />
+            <marker date="1489690519117" expanded="true" signature="147195:147329" ph="SELECT name,... all_objects" />
+            <marker date="1489690519117" expanded="true" signature="147433:147479" ph="SELECT COUNT... TABLES" />
+            <marker date="1489690519117" expanded="true" signature="147551:147690" ph="SELECT name all_objects" />
+            <marker date="1489690519117" expanded="true" signature="147926:148275" ph="SELECT c.*, all_columns" />
+            <marker date="1489690519117" expanded="true" signature="148779:149104" ph="SELECT i.nam... indexes" />
+            <marker date="1489690519117" expanded="true" signature="149496:149601" ph="SELECT VIEW_... VIEWS" />
+            <marker date="1489690519117" expanded="true" signature="149664:149700" ph="SELECT name fn_helpcollations" />
+            <marker date="1489690519117" expanded="true" signature="150968:151032" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="151148:151179" ph="ALTER TABLE ${idf_escape($D)}... " />
+            <marker date="1489690519117" expanded="true" signature="151544:151585" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="151702:151733" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="152413:152424" ph="DROP TABLE $... " />
+            <marker date="1489690519117" expanded="true" signature="152643:152978" ph="SELECT s.nam... " />
+            <marker date="1489690519117" expanded="true" signature="153240:153580" ph="SELECT sys1.... " />
+            <marker date="1489690519117" expanded="true" signature="153955:153983" ph="SELECT name schemas" />
+            <marker date="1489690519117" expanded="true" signature="157647:157716" ph="SELECT RDB$R... rdb$relations" />
+            <marker date="1489690519117" expanded="true" signature="158235:159355" ph="SELECT r.RDB... RDB$RELATION_FIELDS" />
+            <marker date="1489690519117" expanded="true" signature="162711:162734" ph="SELECT itemN... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="181751:181790" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="181858:181913" ph="INSERT INTO ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="182915:182966" ph="SELECT SCHEM... SCHEMATA" />
+            <marker date="1489690519117" expanded="true" signature="183760:183872" ph="SELECT TABLE... TABLES" />
+            <marker date="1489690519117" expanded="true" signature="184111:184244" ph="SELECT TABLE... TABLES" />
+            <marker date="1489690519117" expanded="true" signature="188467:188521" ph="CREATE TABLE... ${table($D)}" />
+            <marker date="1489690519117" expanded="true" signature="188615:188642" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="188906:188918" ph="ALTER TABLE ${table($R)}... " />
+            <marker date="1489690519117" expanded="true" signature="189153:189164" ph="DROP TABLE $... " />
+            <marker date="1489690519117" expanded="true" signature="189597:189618" ph="CREATE TABLE... ${$D}" />
+            <marker date="1489690519117" expanded="true" signature="189642:189671" ph="INSERT INTO ${$D}... " />
+            <marker date="1489690519117" expanded="true" signature="189657:189671" ph="SELECT * FRO... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="191609:191715" ph="SELECT ROUTI... ROUTINES" />
+            <marker date="1489690519117" expanded="true" signature="196424:196433" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="196627:196770" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="196713:196769" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="197432:197709" ph="SELECT TABLE... KEY_COLUMN_USAGE" />
+            <marker date="1489690519117" expanded="true" signature="198905:198973" ph="SELECT ${$u}... ${table($R)}" />
+            <marker date="1489690519117" expanded="true" signature="202098:202112" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="210711:210755" ph="SELECT ${$u}... ${table($uf)}" />
+            <marker date="1489690519117" expanded="true" signature="210796:210837" ph="SELECT ${$D}... ${table($uf)}" />
+            <marker date="1489690519117" expanded="true" signature="212754:212761" ph="»" />
+            <marker date="1489690519117" expanded="true" signature="214208:214270" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="214227:214270" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="228400:228414" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="235028:235057" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="235210:235251" ph="..." />
+            <marker date="1489690519117" expanded="true" signature="236530:236689" ph="SELECT ${$u}... ${table($R)}" />
+          </folding>
         </state>
       </provider>
     </entry>
